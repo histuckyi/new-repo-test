@@ -8,4 +8,4 @@ daim test
 
 스쿼시머지도 테스트함
 
-vs code 내 커밋 테스트
+test123123
